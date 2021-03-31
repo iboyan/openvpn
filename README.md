@@ -1,2 +1,2 @@
 # openvpn
-<span>© <a href="openvpn.net"/>OpenVPN</span>
+<span>© <a href="http://openvpn.net" />OpenVPN</span>
